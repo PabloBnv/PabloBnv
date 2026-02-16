@@ -3,58 +3,102 @@
 
 # 👋 Hola! Soy PabloBnv | Vhx
 
+💻 Frontend Developer especializado en React  
+Construyo interfaces claras, funcionales y mantenibles enfocadas en la experiencia de usuario.
 
-Desarrollador Frontend enfocado en React.  
-Me interesa construir interfaces claras, funcionales y bien estructuradas, priorizando la experiencia de usuario y el código mantenible.
-
-Este repositorio funciona como mi **portafolio principal**, donde centralizo los proyectos que fui desarrollando durante mi formación y práctica personal.
+Este repositorio funciona como mi **portafolio principal**, donde reúno los proyectos más representativos de mi aprendizaje práctico.
 
 ---
 
 ## 🚀 Sobre mí
 
 - 🎓 Formación en desarrollo Full Stack
-- 💻 Enfocado principalmente en Frontend
-- ⚛️ Especializado en React
-- 📚 Aprendizaje continuo y proyectos prácticos
-- 🧠 Interesado en buenas prácticas y arquitectura
+- ⚛️ Enfoque principal en Frontend (React)
+- 🧠 Interés en buenas prácticas y arquitectura
+- 📚 Aprendizaje continuo basado en proyectos reales
+- 🤝 Buscando mi primera experiencia profesional
 
 ---
 
 ## 🛠️ Tecnologías
 
-**Frontend**
-- React
-- JavaScript (ES6+)
-- HTML5
-- CSS3
-- Responsive Design
+### Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-yellow?style=for-the-badge&logo=javascript)
+![HTML5](https://img.shields.io/badge/HTML5-markup-orange?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-styles-blue?style=for-the-badge&logo=css3)
 
-**Herramientas**
-- Git & GitHub
-- Vite
-- npm
-- VS Code
+### Herramientas
+![Git](https://img.shields.io/badge/Git-control-red?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-repository-black?style=for-the-badge&logo=github)
+![Vite](https://img.shields.io/badge/Vite-build-purple?style=for-the-badge&logo=vite)
+![VSCode](https://img.shields.io/badge/VSCode-editor-blue?style=for-the-badge&logo=visualstudiocode)
 
 ---
 
-## 📂 Proyectos
+## 📂 Proyectos destacados
 
--
--
--
+### 🛒 Mini E-commerce
+Aplicación de carrito de compras con manejo de estado global y persistencia.
 
+**Conceptos aplicados**
+- Context API
+- Lógica de negocio real
+- Arquitectura de componentes
+- LocalStorage
 
+🔗 Demo: https://tu-demo.com  
+📁 Código: /mini-ecommerce
+
+---
+
+### 🎬 Buscador de películas
+Aplicación que consume API externa y renderiza resultados dinámicos.
+
+**Conceptos aplicados**
+- Fetch / async-await
+- Manejo de errores
+- Renderizado condicional
+
+🔗 Demo: https://tu-demo.com  
+📁 Código: /movie-search
+
+---
+
+### 📝 To-Do App
+Administrador de tareas con persistencia local.
+
+**Conceptos aplicados**
+- Formularios controlados
+- Manejo de estado
+- Persistencia en navegador
+
+🔗 Demo: https://tu-demo.com  
+📁 Código: /todo-app
+
+---
+
+## 📈 Actualmente aprendiendo
+- Arquitectura de aplicaciones React
+- Optimización de rendimiento
+- Patrones de componentes
 
 ---
 
 ## 🎯 Objetivo profesional
-
-Busco mi primera oportunidad laboral como desarrollador frontend donde pueda aportar, aprender de un equipo y seguir creciendo profesionalmente.
+Busco mi primera oportunidad como desarrollador frontend donde pueda aportar valor al equipo mientras continúo creciendo técnica y profesionalmente.
 
 ---
 
 ## 📫 Contacto
+- GitHub: https://github.com/tu-usuario
+- LinkedIn: https://linkedin.com/in/tu-perfil
+- Email: tuemail@email.com
+
+---
+
+⭐ Gracias por visitar mi portafolio
+
 
 - GitHub: https://github.com/PabloBnv
 - Email: pablobnv@gmail.com
