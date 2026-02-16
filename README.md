@@ -91,9 +91,9 @@ Busco mi primera oportunidad como desarrollador frontend donde pueda aportar val
 ---
 
 ## 📫 Contacto
-- GitHub: https://github.com/tu-usuario
-- LinkedIn: https://linkedin.com/in/tu-perfil
-- Email: tuemail@email.com
+- GitHub: https://github.com/PabloBnv
+- LinkedIn: https://linkedin.com/in/pab-ben-rom
+- Email: bnvpablo@gmail.com
 
 ---
 
