@@ -1,109 +1,93 @@
-
-<img src="https://vhx.suseso.net/assets/img/vhxlogo.gif" alt="Logo Vhx">
-
-# 👋 Hola! Soy PabloBnv | Vhx
-
-💻 Frontend Developer especializado en React  
-Construyo interfaces claras, funcionales y mantenibles enfocadas en la experiencia de usuario.
-
-Este repositorio funciona como mi **portafolio principal**, donde reúno los proyectos más representativos de mi aprendizaje práctico.
+<!-- TYPING EFFECT -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hola%2C+soy+Pablo+👋;Desarrollador+Frontend;React+Developer;Buscando+mi+primera+oportunidad+IT" />
+</h1>
 
 ---
 
-## 🚀 Sobre mí
+## 🌐 Portfolio
 
-- 🎓 Formación en desarrollo Full Stack
-- ⚛️ Enfoque principal en Frontend (React)
-- 🧠 Interés en buenas prácticas y arquitectura
-- 📚 Aprendizaje continuo basado en proyectos reales
-- 🤝 Buscando mi primera experiencia profesional
+<p align="center">
+  <a href="https://portafoliovhx.netlify.app" target="_blank">
+    <img src="https://img.shields.io/badge/Ver%20Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+## 🧑‍💻 Sobre mí
+
+<p align="center">
+💻 Desarrollador Frontend enfocado en interfaces modernas <br/>
+🚀 Especializándome en React <br/>
+📚 Argentina Programa 4.0 + autodidacta <br/>
+🎯 Buscando mi primera oportunidad en IT  
+</p>
 
 ---
 
 ## 🛠️ Tecnologías
 
-### Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-yellow?style=for-the-badge&logo=javascript)
-![HTML5](https://img.shields.io/badge/HTML5-markup-orange?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-styles-blue?style=for-the-badge&logo=css3)
-
-### Herramientas
-![Git](https://img.shields.io/badge/Git-control-red?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-repository-black?style=for-the-badge&logo=github)
-![Vite](https://img.shields.io/badge/Vite-build-purple?style=for-the-badge&logo=vite)
-![VSCode](https://img.shields.io/badge/VSCode-editor-blue?style=for-the-badge&logo=visualstudiocode)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,js,html,css,git,github,vscode" />
+</p>
 
 ---
 
-## 📂 Proyectos destacados
+## 📊 GitHub Stats
 
-### 🛒 Mini E-commerce
-Aplicación de carrito de compras con manejo de estado global y persistencia.
-
-**Conceptos aplicados**
-- Context API
-- Lógica de negocio real
-- Arquitectura de componentes
-- LocalStorage
-
-🔗 Demo: https://tu-demo.com  
-📁 Código: /mini-ecommerce
+<p align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=PabloBnv&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PabloBnv&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
 
 ---
 
-### 🎬 Buscador de películas
-Aplicación que consume API externa y renderiza resultados dinámicos.
+## 🔥 Racha de contribuciones
 
-**Conceptos aplicados**
-- Fetch / async-await
-- Manejo de errores
-- Renderizado condicional
-
-🔗 Demo: https://tu-demo.com  
-📁 Código: /movie-search
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=PabloBnv&theme=tokyonight&hide_border=true"/>
+</p>
 
 ---
 
-### 📝 To-Do App
-Administrador de tareas con persistencia local.
+## 🧠 Actualmente aprendiendo
 
-**Conceptos aplicados**
-- Formularios controlados
-- Manejo de estado
-- Persistencia en navegador
-
-🔗 Demo: https://tu-demo.com  
-📁 Código: /todo-app
+<p align="center">
+⚛️ React avanzado <br/>
+🌐 APIs y fetch <br/>
+🧩 Mejores prácticas de frontend  
+</p>
 
 ---
 
-## 📈 Actualmente aprendiendo
-- Arquitectura de aplicaciones React
-- Optimización de rendimiento
-- Patrones de componentes
+## 📌 Proyectos
 
----
+<p align="center">
+🚀 Podés ver todos mis proyectos en mi portfolio  
+</p>
 
-## 🎯 Objetivo profesional
-Busco mi primera oportunidad como desarrollador frontend donde pueda aportar valor al equipo mientras continúo creciendo técnica y profesionalmente.
+<p align="center">
+  <a href="https://portafoliovhx.netlify.app">
+    <img src="https://img.shields.io/badge/Explorar%20Proyectos-00F7FF?style=for-the-badge"/>
+  </a>
+</p>
 
 ---
 
 ## 📫 Contacto
-- GitHub: https://github.com/PabloBnv
-- LinkedIn: https://linkedin.com/in/pab-ben-rom
-- Email: bnvpablo@gmail.com
+
+<p align="center">
+  <a href="https://github.com/PabloBnv">
+    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github"/>
+  </a>
+  <a href="https://portafoliovhx.netlify.app">
+    <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel"/>
+  </a>
+</p>
 
 ---
 
-⭐ Gracias por visitar mi portafolio
-
-
-- GitHub: https://github.com/PabloBnv
-- Email: pablobnv@gmail.com
-- LinkedIn: https://linkedin.com/in/pab-ben-rom
-
----
-
-⭐ Gracias por visitar mi portafolio
+<p align="center">
+✨ Gracias por visitar mi perfil ✨
+</p>
