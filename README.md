@@ -1,7 +1,13 @@
 <!-- TYPING EFFECT -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hola%2C+soy+Pablo+👋;Desarrollador+Frontend;React+Developer;Buscando+mi+primera+oportunidad+IT" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=0EA5E9&center=true&vCenter=true&width=750&lines=Hola%2C+soy+Pablo+👋;Full+Stack+Developer;Especializado+en+Frontend+con+React;Spring+Boot+%7C+APIs+%7C+PostgreSQL" />
 </h1>
+
+---
+
+<p align="center">
+  💻 Full Stack Developer enfocado en construir aplicaciones web modernas, escalables y bien estructuradas
+</p>
 
 ---
 
@@ -9,27 +15,43 @@
 
 <p align="center">
   <a href="https://portafoliovhx.netlify.app" target="_blank">
-    <img src="https://img.shields.io/badge/Ver%20Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Ver%20Portfolio-0EA5E9?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
 </p>
 
 ---
 
-## 🧑‍💻 Sobre mí
+## 🧑‍💻 Perfil Profesional
 
 <p align="center">
-💻 Desarrollador Frontend enfocado en interfaces modernas <br/>
-🚀 Especializándome en React <br/>
-📚 Argentina Programa 4.0 + autodidacta <br/>
-🎯 Buscando mi primera oportunidad en IT  
+Desarrollador Full Stack con fuerte orientación al Frontend utilizando React.  
+Experiencia en creación de interfaces dinámicas, consumo de APIs y desarrollo backend con Java + Spring Boot.  
+Enfocado en escribir código limpio, mantener buenas prácticas y construir experiencias de usuario eficientes.
 </p>
 
 ---
 
-## 🛠️ Tecnologías
+## 🛠️ Stack Tecnológico
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,js,html,css,git,github,vscode" />
+  <!-- Frontend -->
+  <img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind" /><br/>
+  <!-- Backend -->
+  <img src="https://skillicons.dev/icons?i=java,spring,postgres" /><br/>
+  <!-- Tools -->
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+</p>
+
+---
+
+## ⚙️ Enfoque
+
+<p align="center">
+⚛️ Desarrollo Frontend avanzado con React <br/>
+🎯 Creación de interfaces modernas y responsivas <br/>
+🔗 Integración y consumo de APIs REST <br/>
+☕ Desarrollo backend con Spring Boot <br/>
+🗄️ Modelado de datos con PostgreSQL  
 </p>
 
 ---
@@ -43,7 +65,7 @@
 
 ---
 
-## 🔥 Racha de contribuciones
+## 🔥 Actividad
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=PabloBnv&theme=tokyonight&hide_border=true"/>
@@ -51,25 +73,15 @@
 
 ---
 
-## 🧠 Actualmente aprendiendo
-
-<p align="center">
-⚛️ React avanzado <br/>
-🌐 APIs y fetch <br/>
-🧩 Mejores prácticas de frontend  
-</p>
-
----
-
 ## 📌 Proyectos
 
 <p align="center">
-🚀 Podés ver todos mis proyectos en mi portfolio  
+Desarrollo de proyectos aplicando arquitectura moderna y buenas prácticas tanto en frontend como backend.
 </p>
 
 <p align="center">
   <a href="https://portafoliovhx.netlify.app">
-    <img src="https://img.shields.io/badge/Explorar%20Proyectos-00F7FF?style=for-the-badge"/>
+    <img src="https://img.shields.io/badge/Explorar%20Proyectos-0EA5E9?style=for-the-badge"/>
   </a>
 </p>
 
@@ -79,15 +91,15 @@
 
 <p align="center">
   <a href="https://github.com/PabloBnv">
-    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github"/>
+    <img src="https://img.shields.io/badge/GitHub-111?style=for-the-badge&logo=github"/>
   </a>
   <a href="https://portafoliovhx.netlify.app">
-    <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel"/>
+    <img src="https://img.shields.io/badge/Portfolio-0EA5E9?style=for-the-badge&logo=vercel"/>
   </a>
 </p>
 
 ---
 
 <p align="center">
-✨ Gracias por visitar mi perfil ✨
+🚀 Full Stack Developer con foco en Frontend, construyendo soluciones modernas y escalables
 </p>
